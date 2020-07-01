@@ -1,0 +1,2 @@
+# Sanjeevani
+An android application made for the sake of normal people, which gives stats and detailed information about the number of active cases, number of recovered as well as deceased cases. It also contains the frequently asked questions about the Corona virus and how to deal with it. Overall it is an informatory application. It also has multilingual function through which people can access it in different languages such as Hindi, English and Marathi.
