@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/en"
+        android:gravity="center"
+        android:background = "@drawable/button_design"
+        android:textColor="#FFFFFFFF"
+        android:textSize="30sp"
+        android:text="@string/english"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hi"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background = "@drawable/button_design"
+        android:textColor="#FFFFFFFF"
+        android:text="@string/hindi"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mr"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background = "@drawable/button_design"
+        android:textColor="#FFFFFFFF"
+        android:text="@string/marathi"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bn"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:background = "@drawable/button_design"
+        android:textColor="#FFFFFFFF"
+        android:text="@string/bangla"
+        android:layout_marginBottom="20dp"
+        />
+
+
+
+</LinearLayout>

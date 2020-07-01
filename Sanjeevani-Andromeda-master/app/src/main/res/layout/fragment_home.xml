@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".home">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@mipmap/corona"
+        android:contentDescription="@string/icon"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:id="@+id/heading"
+        android:layout_marginStart="10dp"
+        android:text = "@string/what_is_covid"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:text ="@string/what_is_covid_theory"
+        android:textColor="#000"
+        android:textSize="15sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:text ="@string/know_more"
+        android:textColor="#F44336"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:background="@drawable/button_design"
+        android:id="@+id/about_covid"
+        android:text ="@string/about_covid"
+        android:textColor="#000"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:background="@drawable/button_design"
+        android:text ="@string/how_does_it_spread"
+        android:id="@+id/how_does_it_spread"
+        android:textColor="#000"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:background="@drawable/button_design"
+        android:text ="@string/effects_of_temp"
+        android:id="@+id/effects_of_temp"
+        android:textColor="#000"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:background="@drawable/button_design"
+        android:text ="@string/symptoms"
+        android:id="@+id/symptoms"
+        android:textColor="#000"
+        android:textSize="18sp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:singleLine="false"
+        android:scrollbars="vertical"
+        android:background="@drawable/button_design"
+        android:text ="@string/prevention"
+        android:id="@+id/prevention"
+        android:textColor="#000"
+        android:textSize="18sp"
+        />
+</LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

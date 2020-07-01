@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Sanjeevani</string>
+    <string name="welcome">Welcome</string>
+    <string name="icon">Icon</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your Password ?</string>
+    <string name="back">back</string>
+    <string name="submit">Submit</string>
+    <string name="log_out">Log Out</string>
+    <string name="home">Home</string>
+    <string name="faqs">FAQ\'s</string>
+    <string name="about_us">About us</string>
+    <string name="in_the_know">In The Know</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="could_not_signin">Could not Sign In</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="reset_password">We have mailed you instructions to reset your password!</string>
+    <string name="fail_to_send_mail">"Failed to send reset email!</string>
+    <string name="week_passsword">Weak password</string>
+    <string name="invalid_credentials">Invalid Credentials</string>
+    <string name="email_already_exist">Email already exist</string>
+    <string name="could_not_register">Could not Register, Please try again.</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="hindi">हिंदी</string>
+    <string name="english">English</string>
+    <string name="marathi">मराठी</string>
+    <string name="bangla">বাংলা</string>
+    <string name="Auth_went_wrong">Auth went wrong</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_is_covid">What is COVID-19?  </string>
+    <string name="what_is_covid_theory">A new virus called the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was identified as the cause of a disease outbreak that began in China in 2019. The disease is called coronavirus disease 2019 (COVID-19). In March 2020, the World Health Organization (WHO) declared COVID-19 a pandemic. The coronavirus is a family of viruses that can cause a range of illnesses in humans including common cold and more severe forms like SARS and MERS which are life-threatening. </string>
+    <string name="know_more">Know more about the global pandemic:</string>
+    <string name="about_covid">About Covid-19</string>
+    <string name="how_does_it_spread">How does it spread?</string>
+    <string name="effects_of_temp">Effects of Temperature</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="prevention">Prevention</string>
+    <string name="about">We are @Andromeda, a team of amateur engineering students who have build up an informatory android application as a need of hour to help the country and its citizens with required knowledge about the Novel Corona Virus.</string>
+    <string name="vid">Vidit Wadhwa</string>
+    <string name="inf">Student at VIT Bhopal University</string>
+    <string name="sur">Surbhi Parashar</string>
+    <string name="surch">Suruchi Parashar</string>
+    <string name="dip">Dipti Agarwal</string>
+    <string name="info">Student at VIT Vellore University </string>
+    <string name="imp_faqs">FAQ’S ON NOVEL CORONA VIRUS</string>
+    <string name="what_are_symp">What are the symptoms of novel coronavirus?</string>
+    <string name="ans_what_are_symp">In confirmed cases of illness in humans, common symptoms have been acute, serious respiratory illness with fever, cough, shortness of breath, and breathing difficulties. Based on current clinical experience, the infection generally presents as pneumonia. It has caused kidney failure and death in some cases. It is important to note that the current understanding of the illness caused by this infection is based on a limited number of cases and may change as more information becomes available.</string>
+    <string name="can_it_be_tran">Can it be transmitted from person to person?</string>
+    <string name="ans_can_it_be_tran">This is not known with certainty at this time. The cases occurring in the same family raises the possibility of limited human-to-human transmission. Alternatively, it is possible that the infected family members were exposed to the same source of infection, for example, in a household or workplace.</string>
+    <string name="how_can_i">How could I become infected with this virus?</string>
+    <string name="ans_how_can_i">To date, we do not know how humans have become infected with this virus. Investigations are underway to determine the virus source, types of exposure that lead to infection, mode of transmission and the clinical pattern and course of disease.</string>
+    <string name="is_there_a_vaccine">Is there a vaccine for the novel coronavirus?</string>
+    <string name="ans_is_there_a_vaccine">There is no vaccine currently available.</string>
+    <string name="is_there_a_treat">Is there a treatment for the novel coronavirus?</string>
+    <string name="ans_is_there_a_treat">There is no specific treatment for disease caused by novel coronavirus. However, many of the symptoms caused by this virus can be treated and therefore treatment should be based on the symptoms of the patient. Moreover, supportive care for infected persons can be highly effective.</string>
+    <string name="what_can_i_do">What can I do to protect myself?</string>
+    <string name="ans_what_can_i_do">Exactly how people become infected with this virus is not known at this time. However, some general measures that would be prudent and help prevent the acquisition of any respiratory illness are to avoid close contact, when possible, with anyone who shows symptoms of illness (coughing and sneezing), and to maintain good hand hygiene.</string>
+    <string name="how_people">How many people have been infected by the novel coronavirus?</string>
+    <string name="ans_how_people">WHO is closely monitoring the situation and regularly publishes information about the disease. For more go to http://www.who.int/csr/disease/coronavirus_infections/en/</string>
+    <string name="how_widespread">How widespread is the novel coronavirus?</string>
+    <string name="ans_how_widespread">It is unknown how widespread this virus may be.
+WHO is encouraging Member States to continue to closely monitor for severe acute respiratory infections (SARI) and to carefully review any unusual patterns of SARI or pneumonia. WHO will continue to share information as it is made available.
+</string>
+    <string name="are_health_workers">Are health workers at risk from the novel coronavirus?</string>
+    <string name="ans_are_health_workers">Health care workers come into contact with patients with many different infectious illnesses more often than the general public. Therefore WHO recommends that health care workers consistently apply appropriate infection prevention and control measures.
+http://www.who.int/csr/disease/coronavirus_infections/prevention_control/en/index.html
+</string>
+    <string name="is_the_novel">Is the novel coronavirus like SARS?</string>
+    <string name="ans_is_the_novel">SARS is a coronavirus that was identified in 2003 and belongs to the same large family of viruses as the novel coronavirus. Therefore, SARS and the novel coronavirus are distantly related. Both viruses are capable of causing severe disease. However, they have important differences based on current information.Most importantly, the novel coronavirus does not appear to transmit easily between people while the SARS virus was much more transmissible. </string>
+    <string name="is_it_true">Is it true that this novel coronavirus originated from bats?</string>
+    <string name="ans_is_it_true">This is one possibility but the origin of the virus has not yet been established.</string>
+    <string name="can_humans">Can humans become infected with novel coronavirus from animals? If so, which ones should we be concerned about?</string>
+    <string name="ans_can_humans">WHO is closely monitoring the situation to identify how people are being exposed. There is currently no direct evidence that the human cases were exposed through direct contact with animals.
+    </string>
+    <string name="how_is_who">How is WHO responding to the emergence of this novel coronavirus?</string>
+    <string name="ans_how_is_who">Since the emergence of this virus, WHO has been working under the International Health Regulations to provide information to Member States. WHO is also working with involved countries and international partners to coordinate the global health response, including the provision of updated information on the situation, guidance to health authorities and technical health agencies on interim surveillance recommendations, laboratory testing of cases, infection control, and clinical management, based on the current understanding of the novel virus and the disease in humans.
+WHO will continue to work with Member States and international health partners and share updated information as it is made available.
+</string>
+    <string name="what_is_who">What is WHO recommending countries do?</string>
+    <string name="ans_what_is_who">WHO encourages all Member States to enhance their surveillance for severe acute respiratory infections (SARI) and to carefully review any unusual patterns of SARI or pneumonia cases.
+WHO urges Member States to notify or verify to WHO any suspected or confirmed case of infection with novel coronavirus.
+</string>
+    <string name="has_who">Has WHO recommended any travel or trade restrictions related to this new virus?</string>
+    <string name="ans_has_who">No. WHO does not recommend any travel or trade restrictions with respect to this event. WHO will continue to provide updated information as it is available.</string>
+
+    <string name="the_virus">The virus is named after its shape which takes the form of a crown with protrusions around it and hence is known as coronavirus.</string>
+    <string name="most_people">Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.</string>
+    <string name="covid_19">The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette.</string>
+    <string name="at_this">At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments</string>
+
+    <string name="people_can">People can catch COVID-19 from others who have the virus. The disease spreads primarily from person to person through small droplets from the nose or mouth, which are expelled when a person with COVID-19 coughs, sneezes, or speaks. These droplets are relatively heavy, do not travel far and quickly sink to the ground. People can catch COVID-19 if they breathe in these droplets from a person infected with the virus. This is why it is important to stay at least 1 metre (3 feet) away from others. These droplets can land on objects and surfaces around the person such as tables, doorknobs and handrails. People can become infected by touching these objects or surfaces, then touching their eyes, nose or mouth. This is why it is important to wash your hands regularly with soap and water or clean with alcohol-based hand rub.</string>
+    <string name="despite">Despite the findings, researchers and public health experts have cautioned that it\'s not likely COVID-19 transmission will come to a halt this summer.
+People want to know if this is going to go away in the summer but seasonal respiratory viruses never really go away. Even if a virus transmission is lower in warmer temperatures, the virus still could spread. He noted that, for instance, seasonal viruses like the flu are still present in low levels in people\'s bodies and on surfaces during the summer, and therefore can be spread to others. Warmer temperatures may make this virus less effective, but less effective transmission does not mean that there is no transmission. There is still a need to take strong precautions.
+</string>
+    <string name="covid_19_affects">COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization.</string>
+    <string name="most_common">Most common symptoms:
+•	fever.
+•	dry cough.
+•	tiredness.
+</string>
+    <string name="least_common">Less common symptoms:
+•	aches and pains.
+•	nasal congestion.
+•	sore throat.
+•	diarrhoea.
+•	conjunctivitis.
+•	headache.
+•	loss of taste or smell.
+•	a rash on skin, or discolouration of fingers or toes.
+</string>
+    <string name="serious">Serious symptoms:
+•	difficulty breathing or shortness of breath.
+•	chest pain or pressure.
+•	loss of speech or movement.
+</string>
+    <string name="seek">Seek immediate medical attention if you have serious symptoms.  Always call before visiting your doctor or health facility.</string>
+    <string name="people">People with mild symptoms who are otherwise healthy should manage their symptoms at home.
+On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
+</string>
+    <string name="to_prevent">To prevent infection and to slow transmission of COVID-19, do the following:</string>
+    <string name="wash">•	Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.
+•	Maintain at least 1 metre distance between you and people coughing or sneezing.
+•	Avoid touching your face.
+•	Cover your mouth and nose when coughing or sneezing.
+•	Stay home if you feel unwell.
+•	Refrain from smoking and other activities that weaken the lungs.
+•	Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people.
+•	Always wear face masks while going outside.
+</string>
+</resources>

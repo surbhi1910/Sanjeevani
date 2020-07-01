@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214774037758",
+    "firebase_url": "https://andromeda-32e09.firebaseio.com",
+    "project_id": "andromeda-32e09",
+    "storage_bucket": "andromeda-32e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214774037758:android:52efdced300a6de605f9af",
+        "android_client_info": {
+          "package_name": "com.example.andromeda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214774037758-3kicb56m9g7d3ac1971541j20jsguq05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGyd6TT1ZigYCcQp0r4W64Mh-XLTaJAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214774037758-3kicb56m9g7d3ac1971541j20jsguq05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
